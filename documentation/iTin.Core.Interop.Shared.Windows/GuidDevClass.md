@@ -1,0 +1,94 @@
+# GuidDevClass class
+
+GuidDevClass
+
+```csharp
+public static class GuidDevClass
+```
+
+## Public Members
+
+| name | description |
+| --- | --- |
+| static readonly [GUID_DEVCLASS_1394](GuidDevClass/GUID_DEVCLASS_1394.md) |  |
+| static readonly [GUID_DEVCLASS_1394DEBUG](GuidDevClass/GUID_DEVCLASS_1394DEBUG.md) |  |
+| static readonly [GUID_DEVCLASS_61883](GuidDevClass/GUID_DEVCLASS_61883.md) |  |
+| static readonly [GUID_DEVCLASS_ADAPTER](GuidDevClass/GUID_DEVCLASS_ADAPTER.md) |  |
+| static readonly [GUID_DEVCLASS_APMSUPPORT](GuidDevClass/GUID_DEVCLASS_APMSUPPORT.md) |  |
+| static readonly [GUID_DEVCLASS_AVC](GuidDevClass/GUID_DEVCLASS_AVC.md) |  |
+| static readonly [GUID_DEVCLASS_BATTERY](GuidDevClass/GUID_DEVCLASS_BATTERY.md) |  |
+| static readonly [GUID_DEVCLASS_BIOMETRIC](GuidDevClass/GUID_DEVCLASS_BIOMETRIC.md) |  |
+| static readonly [GUID_DEVCLASS_BLUETOOTH](GuidDevClass/GUID_DEVCLASS_BLUETOOTH.md) |  |
+| static readonly [GUID_DEVCLASS_CDROM](GuidDevClass/GUID_DEVCLASS_CDROM.md) |  |
+| static readonly [GUID_DEVCLASS_COMPUTER](GuidDevClass/GUID_DEVCLASS_COMPUTER.md) |  |
+| static readonly [GUID_DEVCLASS_DECODER](GuidDevClass/GUID_DEVCLASS_DECODER.md) |  |
+| static readonly [GUID_DEVCLASS_DISKDRIVE](GuidDevClass/GUID_DEVCLASS_DISKDRIVE.md) |  |
+| static readonly [GUID_DEVCLASS_DISPLAY](GuidDevClass/GUID_DEVCLASS_DISPLAY.md) |  |
+| static readonly [GUID_DEVCLASS_DOT4](GuidDevClass/GUID_DEVCLASS_DOT4.md) |  |
+| static readonly [GUID_DEVCLASS_DOT4PRINT](GuidDevClass/GUID_DEVCLASS_DOT4PRINT.md) |  |
+| static readonly [GUID_DEVCLASS_ENUM1394](GuidDevClass/GUID_DEVCLASS_ENUM1394.md) |  |
+| static readonly [GUID_DEVCLASS_FDC](GuidDevClass/GUID_DEVCLASS_FDC.md) |  |
+| static readonly [GUID_DEVCLASS_FLOPPYDISK](GuidDevClass/GUID_DEVCLASS_FLOPPYDISK.md) |  |
+| static readonly [GUID_DEVCLASS_FSFILTER_ACTIVITYMONITOR](GuidDevClass/GUID_DEVCLASS_FSFILTER_ACTIVITYMONITOR.md) |  |
+| static readonly [GUID_DEVCLASS_FSFILTER_ANTIVIRUS](GuidDevClass/GUID_DEVCLASS_FSFILTER_ANTIVIRUS.md) |  |
+| static readonly [GUID_DEVCLASS_FSFILTER_CFSMETADATASERVER](GuidDevClass/GUID_DEVCLASS_FSFILTER_CFSMETADATASERVER.md) |  |
+| static readonly [GUID_DEVCLASS_FSFILTER_COMPRESSION](GuidDevClass/GUID_DEVCLASS_FSFILTER_COMPRESSION.md) |  |
+| static readonly [GUID_DEVCLASS_FSFILTER_CONTENTSCREENER](GuidDevClass/GUID_DEVCLASS_FSFILTER_CONTENTSCREENER.md) |  |
+| static readonly [GUID_DEVCLASS_FSFILTER_CONTINUOUSBACKUP](GuidDevClass/GUID_DEVCLASS_FSFILTER_CONTINUOUSBACKUP.md) |  |
+| static readonly [GUID_DEVCLASS_FSFILTER_COPYPROTECTION](GuidDevClass/GUID_DEVCLASS_FSFILTER_COPYPROTECTION.md) |  |
+| static readonly [GUID_DEVCLASS_FSFILTER_ENCRYPTION](GuidDevClass/GUID_DEVCLASS_FSFILTER_ENCRYPTION.md) |  |
+| static readonly [GUID_DEVCLASS_FSFILTER_HSM](GuidDevClass/GUID_DEVCLASS_FSFILTER_HSM.md) |  |
+| static readonly [GUID_DEVCLASS_FSFILTER_INFRASTRUCTURE](GuidDevClass/GUID_DEVCLASS_FSFILTER_INFRASTRUCTURE.md) |  |
+| static readonly [GUID_DEVCLASS_FSFILTER_OPENFILEBACKUP](GuidDevClass/GUID_DEVCLASS_FSFILTER_OPENFILEBACKUP.md) |  |
+| static readonly [GUID_DEVCLASS_FSFILTER_PHYSICALQUOTAMANAGEMENT](GuidDevClass/GUID_DEVCLASS_FSFILTER_PHYSICALQUOTAMANAGEMENT.md) |  |
+| static readonly [GUID_DEVCLASS_FSFILTER_QUOTAMANAGEMENT](GuidDevClass/GUID_DEVCLASS_FSFILTER_QUOTAMANAGEMENT.md) |  |
+| static readonly [GUID_DEVCLASS_FSFILTER_REPLICATION](GuidDevClass/GUID_DEVCLASS_FSFILTER_REPLICATION.md) |  |
+| static readonly [GUID_DEVCLASS_FSFILTER_SECURITYENHANCER](GuidDevClass/GUID_DEVCLASS_FSFILTER_SECURITYENHANCER.md) |  |
+| static readonly [GUID_DEVCLASS_FSFILTER_SYSTEM](GuidDevClass/GUID_DEVCLASS_FSFILTER_SYSTEM.md) |  |
+| static readonly [GUID_DEVCLASS_FSFILTER_SYSTEMRECOVERY](GuidDevClass/GUID_DEVCLASS_FSFILTER_SYSTEMRECOVERY.md) |  |
+| static readonly [GUID_DEVCLASS_FSFILTER_UNDELETE](GuidDevClass/GUID_DEVCLASS_FSFILTER_UNDELETE.md) |  |
+| static readonly [GUID_DEVCLASS_GPS](GuidDevClass/GUID_DEVCLASS_GPS.md) |  |
+| static readonly [GUID_DEVCLASS_HDC](GuidDevClass/GUID_DEVCLASS_HDC.md) |  |
+| static readonly [GUID_DEVCLASS_HIDCLASS](GuidDevClass/GUID_DEVCLASS_HIDCLASS.md) |  |
+| static readonly [GUID_DEVCLASS_IMAGE](GuidDevClass/GUID_DEVCLASS_IMAGE.md) |  |
+| static readonly [GUID_DEVCLASS_INFINIBAND](GuidDevClass/GUID_DEVCLASS_INFINIBAND.md) |  |
+| static readonly [GUID_DEVCLASS_INFRARED](GuidDevClass/GUID_DEVCLASS_INFRARED.md) |  |
+| static readonly [GUID_DEVCLASS_KEYBOARD](GuidDevClass/GUID_DEVCLASS_KEYBOARD.md) |  |
+| static readonly [GUID_DEVCLASS_LEGACYDRIVER](GuidDevClass/GUID_DEVCLASS_LEGACYDRIVER.md) |  |
+| static readonly [GUID_DEVCLASS_MEDIA](GuidDevClass/GUID_DEVCLASS_MEDIA.md) |  |
+| static readonly [GUID_DEVCLASS_MEDIUM_CHANGER](GuidDevClass/GUID_DEVCLASS_MEDIUM_CHANGER.md) |  |
+| static readonly [GUID_DEVCLASS_MODEM](GuidDevClass/GUID_DEVCLASS_MODEM.md) |  |
+| static readonly [GUID_DEVCLASS_MONITOR](GuidDevClass/GUID_DEVCLASS_MONITOR.md) |  |
+| static readonly [GUID_DEVCLASS_MOUSE](GuidDevClass/GUID_DEVCLASS_MOUSE.md) |  |
+| static readonly [GUID_DEVCLASS_MTD](GuidDevClass/GUID_DEVCLASS_MTD.md) |  |
+| static readonly [GUID_DEVCLASS_MULTIFUNCTION](GuidDevClass/GUID_DEVCLASS_MULTIFUNCTION.md) |  |
+| static readonly [GUID_DEVCLASS_MULTIPORTSERIAL](GuidDevClass/GUID_DEVCLASS_MULTIPORTSERIAL.md) |  |
+| static readonly [GUID_DEVCLASS_NET](GuidDevClass/GUID_DEVCLASS_NET.md) |  |
+| static readonly [GUID_DEVCLASS_NETCLIENT](GuidDevClass/GUID_DEVCLASS_NETCLIENT.md) |  |
+| static readonly [GUID_DEVCLASS_NETSERVICE](GuidDevClass/GUID_DEVCLASS_NETSERVICE.md) |  |
+| static readonly [GUID_DEVCLASS_NETTRANS](GuidDevClass/GUID_DEVCLASS_NETTRANS.md) |  |
+| static readonly [GUID_DEVCLASS_NODRIVER](GuidDevClass/GUID_DEVCLASS_NODRIVER.md) |  |
+| static readonly [GUID_DEVCLASS_PCMCIA](GuidDevClass/GUID_DEVCLASS_PCMCIA.md) |  |
+| static readonly [GUID_DEVCLASS_PNPPRINTERS](GuidDevClass/GUID_DEVCLASS_PNPPRINTERS.md) |  |
+| static readonly [GUID_DEVCLASS_PORTS](GuidDevClass/GUID_DEVCLASS_PORTS.md) |  |
+| static readonly [GUID_DEVCLASS_PRINTER](GuidDevClass/GUID_DEVCLASS_PRINTER.md) |  |
+| static readonly [GUID_DEVCLASS_PRINTERUPGRADE](GuidDevClass/GUID_DEVCLASS_PRINTERUPGRADE.md) |  |
+| static readonly [GUID_DEVCLASS_PROCESSOR](GuidDevClass/GUID_DEVCLASS_PROCESSOR.md) |  |
+| static readonly [GUID_DEVCLASS_SBP2](GuidDevClass/GUID_DEVCLASS_SBP2.md) |  |
+| static readonly [GUID_DEVCLASS_SCSIADAPTER](GuidDevClass/GUID_DEVCLASS_SCSIADAPTER.md) |  |
+| static readonly [GUID_DEVCLASS_SECURITYACCELERATOR](GuidDevClass/GUID_DEVCLASS_SECURITYACCELERATOR.md) |  |
+| static readonly [GUID_DEVCLASS_SMARTCARDREADER](GuidDevClass/GUID_DEVCLASS_SMARTCARDREADER.md) |  |
+| static readonly [GUID_DEVCLASS_SOUND](GuidDevClass/GUID_DEVCLASS_SOUND.md) |  |
+| static readonly [GUID_DEVCLASS_SYSTEM](GuidDevClass/GUID_DEVCLASS_SYSTEM.md) |  |
+| static readonly [GUID_DEVCLASS_TAPEDRIVE](GuidDevClass/GUID_DEVCLASS_TAPEDRIVE.md) |  |
+| static readonly [GUID_DEVCLASS_UNKNOWN](GuidDevClass/GUID_DEVCLASS_UNKNOWN.md) |  |
+| static readonly [GUID_DEVCLASS_USB](GuidDevClass/GUID_DEVCLASS_USB.md) |  |
+| static readonly [GUID_DEVCLASS_VOLUME](GuidDevClass/GUID_DEVCLASS_VOLUME.md) |  |
+| static readonly [GUID_DEVCLASS_VOLUMESNAPSHOT](GuidDevClass/GUID_DEVCLASS_VOLUMESNAPSHOT.md) |  |
+| static readonly [GUID_DEVCLASS_WCEUSBS](GuidDevClass/GUID_DEVCLASS_WCEUSBS.md) |  |
+
+## See Also
+
+* namespace [iTin.Core.Interop.Shared.Windows](../iTin.Core.Interop.Shared.md)
+
+<!-- DO NOT EDIT: generated by xmldocmd for iTin.Core.Interop.Shared.dll -->
