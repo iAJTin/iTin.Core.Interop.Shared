@@ -7,7 +7,7 @@ namespace iTin.Core.Interop.Shared.Windows;
 public static class Constants
 {
     /// <summary>
-    /// Max path lenght.
+    /// Max path length.
     /// </summary>
     public const int MAX_PATH = 260;
 
